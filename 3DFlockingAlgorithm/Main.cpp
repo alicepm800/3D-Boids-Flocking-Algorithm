@@ -1,9 +1,4 @@
-///////////////////////////////////////////////////////////////////////////
-//	Copyright (C) Sumo Digital Ltd. All rights reserved.
-///////////////////////////////////////////////////////////////////////////
 
-// We have to define this in one .cpp only to bring in our implementation code.
-// It must be defined just before the #include "Play3d.h"
 #define PLAY_IMPLEMENTATION
 #include "Play3d.h"
 #include "Flock.h"
