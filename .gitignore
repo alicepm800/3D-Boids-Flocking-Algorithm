@@ -1,0 +1,6 @@
+# Ignore
+/.vs
+/x64
+*.user
+*.tlog
+ShooterGame/x64/
