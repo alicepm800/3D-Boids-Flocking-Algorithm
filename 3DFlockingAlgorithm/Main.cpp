@@ -14,7 +14,7 @@ void SetupGameGraphics();
 
 int PlayMain()
 {
-	// If we need to assert and/or log our code there some handy macros.
+	// If we need to assert and/or log our code there are some handy macros.
 	// PLAY_ASSERT()
 	// PLAY_ASSERT_MSG(false, "errcode = 0x%x", 1234);
 	// PLAY_TRACE("Hello Play3d");
